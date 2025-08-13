@@ -1,15 +1,11 @@
-# InvisAI: AI your screen, *secretly*
+# InvisAI: AI your screen
 > [!CAUTION]
-> Disclaimer: The creator is not responsible for any consequences or actions taken by users, including if you are caught using this tool.
-> I do not condone cheating, and this app was made for educational purposes only. 
+> Disclaimer: The creator is not responsible for any consequences or actions taken by users.
 
+## Built as a free and open source version of Cluely AI.
 A Windows application for *secretly* plugging anything into AI. The app is **hidden from all screen capture** using Windows APIs. This app also is **invisible to focus change detectors**!
 
 ### NO API KEYS REQUIRED!
-**Built as an alternative and a jab at Cluely, a closed-source software that makes people pay!!**
-
-## Evade Proctorio with *style*
-All the features in this app make it perfect to be undetectable to Proctorio!
 
 ## Features
 - 🔒 **Screen Capture Protection** - Hidden from screen capture software
@@ -17,7 +13,7 @@ All the features in this app make it perfect to be undetectable to Proctorio!
 - 👩‍💻 **Window Cloaking** - Disguise your window as Notepad 
 - 🎯 **Area Selection** - Click two corners to select any screen area
 - 🌐 **Modern UI** - Beautiful HTML/CSS/JS interface
-- 🤖 **Multiple AI Checking** - Double check all your answers with so many different AI models!
+- 🤖 **Multiple AI Checking** - Double check with so many different AI models!
   - ChatGPT
   - Microsoft Copilot
   - *Gemini
