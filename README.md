@@ -19,6 +19,7 @@ A Windows application for *secretly* plugging anything into AI. The app is **hid
   - *Gemini
   - **Qwen
   - **DeepSeek
+  Starred Models use OCR for text detection instead of image recognition!
 - ⌨ **Hotkey Support** - Activate the screen capture through a simple hotkey!
 - 📷 **Desk Scan Mode** - Temporarily hide your window for any desk scan!
 - 📰 **AI Consensus** - Get a preview of what all AIs say in one single glance!
