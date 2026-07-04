@@ -1,4 +1,4 @@
-# InvisAI: AI your screen
+# InvisAI
 > [!CAUTION]
 > Disclaimer: The creator is not responsible for any consequences or actions taken by users.
 
